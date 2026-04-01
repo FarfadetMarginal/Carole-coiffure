@@ -1,0 +1,128 @@
+[
+    {
+    "id":1,
+    "name":"Coupe femme",
+    "prix":20
+    },
+    {
+    "id":2,
+    "name":"Balayage courts",
+    "prix":34
+    },
+    {
+    "id":3,
+    "name":"Balayage longs",
+    "prix":46
+    }, 
+    {
+    "id":4,
+    "name":"Balayage mi-longs",
+    "prix":40
+    },
+     {
+    "id":5,
+    "name":"Brush courts",
+    "prix":18
+    },
+     {
+    "id":6,
+    "name":"Brush longs",
+    "prix":26.50
+    },
+     {
+    "id":7,
+    "name":"Brush mi-longs",
+    "prix":22.50
+    },
+     {
+    "id":8,
+    "name":"Chignon",
+    "prix":30
+    },
+     {
+    "id":9,
+    "name":"Coloration",
+    "prix":40
+    },
+     {
+    "id":10,
+    "name":"Coupe enfant",
+    "prix":17
+    },
+     {
+    "id":11,
+    "name":"Coupe homme",
+    "prix":23
+    },
+    {
+    "id":13,
+    "name":"Mèches courtes",
+    "prix":50
+    },
+     {
+    "id":14,
+    "name":"Mèches longues",
+    "prix":70
+    },
+     {
+    "id":15,
+    "name":"Mèches mi-longues",
+    "prix":60
+    },
+     {
+    "id":16,
+    "name":"Mise en plis courts",
+    "prix":19
+    },
+     {
+    "id":17,
+    "name":"Mise en plis longs",
+    "prix":25
+    },
+     {
+    "id":18,
+    "name":"Mise en plis mi-longs",
+    "prix":22.50
+    },
+     {
+    "id":19,
+    "name":"Nettoyage",
+    "prix":30
+    },
+     {
+    "id":20,
+    "name":"Permanente courts",
+    "prix":50
+    },
+     {
+    "id":21,
+    "name":"Permanente longs",
+    "prix":70
+    },
+     {
+    "id":22,
+    "name":"Permanente mi-longs",
+    "prix":60
+    },
+     {
+    "id":23,
+    "name":"Shampoing traitant",
+    "prix":5
+    },
+     {
+    "id":24,
+    "name":"Soin",
+    "prix":5
+    },
+     {
+    "id":25,
+    "name":"Soutient",
+    "prix":5
+    },
+     {
+    "id":26,
+    "name":"Séchage",
+    "prix":5
+    }
+
+]
