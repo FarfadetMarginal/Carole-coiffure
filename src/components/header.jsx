@@ -28,7 +28,7 @@ const Header = () => {
           <a href="#localisation" onClick={(e) => handleSmoothScroll(e, "localisation")}>
             Où me trouver
           </a>
-          <img src="public/epingledroite.png" alt="epingle droite cool" />
+          <img src="./epingledroite.png" alt="epingle droite cool" />
         </div>
       </header>
 
