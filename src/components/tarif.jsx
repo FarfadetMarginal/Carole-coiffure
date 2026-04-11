@@ -14,7 +14,7 @@ const horaires = {
   hiver: [
     { jour: "Lundi",    heures: "Fermé" },
     { jour: "Mardi",    heures: "9h00 - 12h00 ; 14h30 - 19h00" },
-    { jour: "Mercredi", heures: "9h00 - 12h00 ; 14h30 - 19h00" },
+    { jour: "Mercredi", heures: "9h00 - 12h00" },
     { jour: "Jeudi",    heures: "9h00 - 12h00 ; 14h30 - 19h00" },
     { jour: "Vendredi", heures: "9h00 - 12h00 ; 14h30 - 18h00" },
     { jour: "Samedi",   heures: "9h00 - 12h00 ; 14h30 - 17h00" },
