@@ -44,7 +44,7 @@ header a{
     color: black;
 }
 
-header a:hover{
+.header1 a:hover{
     transition: none; 
 
   background: linear-gradient(to right, #000 20%, #fff 50%, #000 80%);
@@ -111,6 +111,10 @@ margin-top: 30px;
 padding-left: 20px;
 }
 
+.logorelou:hover{
+  transform: scale(1.2);
+}
+
 .header1 img{
     width: 90px;
 }
@@ -129,6 +133,7 @@ footer{
     justify-self: center;
     font-family: $font1;
     margin-bottom: 15px;
+    font-size: 8px;
 }
 
 //carousel s1
